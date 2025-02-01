@@ -21,6 +21,7 @@ If you do not have a bench power supply, consider getting one as this can make y
 
 # Pi
 
+***If new install follow website below before completing steps below.
 Summarized from [here](https://canbus.esoterical.online/Getting_Started.html)
 
 1. Use nano to create a new file with the command `sudo nano /etc/network/interfaces.d/can0`
